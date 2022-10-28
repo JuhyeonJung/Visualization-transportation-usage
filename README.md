@@ -1,5 +1,6 @@
 # Project-Visualization-transportation-usage
-2021 Fall - Project in Electronics Manufacturing Data Analysis - SeoulTech, Department of Data Science
+2021 Fall - Project in Electronics Manufacturing Data Analysis - SeoulTech, Department of Data Science  
+팀원 : 이예빈, 정주현
 
 ## Data Visualization - 위드 코로나 시대의 이동수단 개선 방안 도출
 ### 분석 목표 - 2019년(COVID-19 이전), 2020년, 2021년을 비교하여 전염병이 장기화 됨에 따른 서울시의 이동 수단 이용 변화를 분석하고자 함
